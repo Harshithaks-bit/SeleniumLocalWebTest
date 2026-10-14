@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import java.io.File;
 import org.openqa.selenium.chrome.ChromeOptions;
 
@@ -170,4 +170,4 @@ public void setUp() {
 	}
 
 
->>>>>>> myrepo/main
+
