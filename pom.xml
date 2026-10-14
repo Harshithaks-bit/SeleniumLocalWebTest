@@ -1,10 +1,9 @@
-<<<<<<< HEAD
 
-=======
->>>>>>> myrepo/main
+<?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.example</groupId>
@@ -21,11 +20,7 @@
         <dependency>
             <groupId>org.seleniumhq.selenium</groupId>
             <artifactId>selenium-java</artifactId>
-<<<<<<< HEAD
             <version>4.25.0</version>
-=======
-            <version>4.27.0</version>
->>>>>>> myrepo/main
         </dependency>
 
         <dependency>
@@ -35,9 +30,6 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
-<<<<<<< HEAD
-</project>
-=======
 
     <build>
         <plugins>
@@ -53,5 +45,5 @@
             </plugin>
         </plugins>
     </build>
+
 </project>
->>>>>>> myrepo/main
